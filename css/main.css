@@ -3081,7 +3081,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-weight: 400;
-    background-image: url(/img/back.svg);
+    background-image: url(https://simphiwedev.github.io/proplanding/img/back.svg);
     background-repeat: no-repeat;
     font-family: "segoe ui";
 }
